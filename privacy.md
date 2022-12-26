@@ -28,11 +28,11 @@ This Data Protection Policy (the "Policy") applies to the collection, use and di
 
 3.1 As part of its day-to-day activity, WePass may collect from you, through various means, including via our websites, smart phone applications, and/or any forms used by WePass from time to time, some or all of the following Personal Data:
 
-    - Name
-    - Email address
-    - IP address
-    - Photographs and images
-    - Question and answer history and statistics
+- Name
+- Email address
+- IP address
+- Photographs and images
+- Question and answer history and statistics
 
 We may choose to use cookies on our websites to track website visitorship and experience. Most web browsers are designed to accept cookies. If you do not wish to receive any cookies, you may set your browser to refuse it.
 
@@ -42,36 +42,36 @@ We may choose to use cookies on our websites to track website visitorship and ex
 
 3.4 Without derogating from any of the above, WePass may also disclose your Personal Data to the following third parties:
 
-    - Regulators and law enforcement officials
-    - Lawyers
-    - Auditors
-    - Third party service providers and consultants
-    - Credit, debit and charge card companies, banks and other entities processing payment
-    - Potential buyers or investors of WePass or any of WePass companies
-    - Any agent or subcontractor acting on WePass behalf for the provision of WePass services
+- Regulators and law enforcement officials
+- Lawyers
+- Auditors
+- Third party service providers and consultants
+- Credit, debit and charge card companies, banks and other entities processing payment
+- Potential buyers or investors of WePass or any of WePass companies
+- Any agent or subcontractor acting on WePass behalf for the provision of WePass services
 
 3.5 WePass may disclose your Personal Data to the above mentioned parties also in the occurrence of any of the following events:
 
-    - To the extent that WePass is required to do so by the law
-    - In connection with any legal proceedings or prospective legal proceedings
-    - To establish, exercise or defend WePass legal rights
-    - To the purchaser (or prospective purchaser) of any business or asset which WePass is (or is contemplating) selling
-    - To any person and/or entity for the purpose of processing such information on WePass behalf
-    - To third parties who provide services to WePass or on its behalf
-    - To any third party that purchases WePass or WePass business or any part of WePass's business
-    - With your consent
-    - For the purposes of disaster recovery
-    - Optional Provision of Personal Data
+- To the extent that WePass is required to do so by the law
+- In connection with any legal proceedings or prospective legal proceedings
+- To establish, exercise or defend WePass legal rights
+- To the purchaser (or prospective purchaser) of any business or asset which WePass is (or is contemplating) selling
+- To any person and/or entity for the purpose of processing such information on WePass behalf
+- To third parties who provide services to WePass or on its behalf
+- To any third party that purchases WePass or WePass business or any part of WePass's business
+- With your consent
+- For the purposes of disaster recovery
+- Optional Provision of Personal Data
 
 3.6 In some instances, you may also be requested to provide certain Personal Data that may be used to further improve WePass products and services and/or better tailor the type of information presented to you. In most cases, this type of data is optional although, where the requested service is a personalised service, or provision of a product or dependent on your providing all requested data, failure to provide the requested data may prevent WePass from providing the service to you. This type of data includes, but is not limited to:
 
-    - Age
-    - Gender
-    - Salary range and employment details
-    - Education and Profession
-    - Hobbies and leisure activities
-    - Other related products and services subscribed to
-    - Family and household demographics
+- Age
+- Gender
+- Salary range and employment details
+- Education and Profession
+- Hobbies and leisure activities
+- Other related products and services subscribed to
+- Family and household demographics
 
 3.7 Under certain circumstances, telephone calls made to any of WePass companies to order and/or service hotlines and/or inquiry telephone numbers are recorded for the purposes of quality control, appraisal, and/or staff management and development. In such an event, by agreeing to this Policy, you hereby give your clear and unambiguous consent for the collection, use and disclosure of such Personal Data in accordance to this Policy.
 
@@ -91,8 +91,8 @@ WePass uses commercially reasonable physical, managerial, and technical safeguar
 
 7.1 In accordance with Clause 2.1 of this Policy, you have the right to:
 
-    - check whether WePass holds any Personal Data relating to you and, if so, obtain copies of such data
-    - request that WePass correct any Personal Data relating to you which is inaccurate for the purpose for which it is being used
+- check whether WePass holds any Personal Data relating to you and, if so, obtain copies of such data
+- request that WePass correct any Personal Data relating to you which is inaccurate for the purpose for which it is being used
 
 7.2 WePass reserves the right to charge a reasonable administrative fee in order to meet your requests under Clause 7.1. Upon payment of the requisite fee, your request shall be processed within a reasonable time.
 
