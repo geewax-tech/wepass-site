@@ -38,7 +38,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 
-The Service Provider uses cloud services from many providers, including, but limited to:
+The Application may use cloud services from many providers, including, but limited to:
 
 *   Google Cloud Platform
 *   Firebase
@@ -50,6 +50,14 @@ The Service Provider uses cloud services from many providers, including, but lim
 *   Google AdMob
 
 Your unique user information (including primary account information, such as email address, unique identifier, or device advertising ID) may be transmitted to these cloud providers and may be stored by these providers for use by the Application.
+
+Some examples of this may include, but are not limited to:
+
+- Your device ID may be transmitted to Firebase for analyical data and keeping track of application crashes;
+- Your email address or other unique ID provided by an OAuth login provider (e.g., Login with Google, Login with Apple) may be transmitted and stored in Firestore database as the unique identifier of your account;
+- An advertising ID may be transmitted to AdMob to track unique ad views (in cases where the Application uses advertisements);
+- A unique identifier may be transmitted to Facebook or Google Ads to track application installation and purchases as feedback for the Application's paid online advertising campaigns;
+- Etc
 
 Any information provided (including personal or sensitive information) to these SDK or cloud service providers is stored solely for use by the Application. This information is NEVER sold in any way by WePass, Geewax Technology Pte Ltd, or any third-party service providers that may come in contact with your information as described in this policy.
 
