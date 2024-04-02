@@ -10,10 +10,13 @@ The Application collects information when you download and use it. This informat
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
+*   Your email address
+*   A unique identifier for your account provided by a login provider (including, but not limited to, Login with Google, Login with Apple)
+*   A unique advertising ID for analyics, crash tracking, debugging, and statistics about usage of Application
 
 The Application does not gather precise information about the location of your mobile device.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+The Application may collect your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
 *   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
@@ -34,6 +37,19 @@ Please note that the Application utilizes third-party services that have their o
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+
+The Service Provider uses cloud services from many providers, including, but limited to:
+
+*   Google Cloud Platform
+*   Firebase
+*   Firestore
+*   Facebook / Meta
+*   Facebook Ads
+*   Amazon
+*   Amazon Web Services
+*   Google AdMob
+
+Your unique user information (including primary account information, such as email address, unique identifier, or device advertising ID) may be transmitted to these cloud providers and may be stored by these providers for use by the Application.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
