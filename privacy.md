@@ -51,6 +51,8 @@ The Service Provider uses cloud services from many providers, including, but lim
 
 Your unique user information (including primary account information, such as email address, unique identifier, or device advertising ID) may be transmitted to these cloud providers and may be stored by these providers for use by the Application.
 
+Any information provided (including personal or sensitive information) to these SDK or cloud service providers is stored solely for use by the Application. This information is NEVER sold in any way by WePass, Geewax Technology Pte Ltd, or any third-party service providers that may come in contact with your information as described in this policy.
+
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
 *   as required by law, such as to comply with a subpoena, or similar legal process;
