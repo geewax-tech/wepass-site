@@ -1,6 +1,6 @@
 # Data Protection Policy
 
-This Data Protection Policy (the "Policy") applies to the collection, use and disclosure of an individual customers Personal Data (hereinafter defined) arising from goods and/or services offered by wepass.dev ("WePass").
+This Data Protection and Privacy Policy (the "Policy") applies to the collection, use and disclosure of an individual customers Personal Data (hereinafter defined) arising from goods and/or services offered by wepass.dev ("WePass") including, but not limited to, WePass BTT, WePass FTT, WePass WSET Wine 2, WePass Barber Licensing, and all other WePass test preparation apps.
 
 ## 1. General
 
@@ -35,6 +35,8 @@ This Data Protection Policy (the "Policy") applies to the collection, use and di
 - Question and answer history and statistics
 
 We may choose to use cookies on our websites to track website visitorship and experience. Most web browsers are designed to accept cookies. If you do not wish to receive any cookies, you may set your browser to refuse it.
+
+This information will be stored in our storage providers (including, but not limited to, Google, Google Cloud Platform, Firebase, Firestore, Amazon, Amazon Web Services, and GitHub).
 
 3.2 The above Personal Data mentioned in Clause 3.1 is collected for any purposes in connection with the services provided by us from time to time and to ascertain if you are eligible for discounts, privileges or benefits or other related purposes; to conduct market research and analysis; for direct marketing through voice calls; text messages; email; direct mail and facsimile messages; for payment and/or credit control purposes; to notify you of any changes to our policies or services which may affect you; to respond to queries and feedback; for identification and club access; maintaining and updating your membership details; and informing you of new developments, services, promotions of WePass and other third parties which we are associated with.
 
@@ -75,6 +77,10 @@ We may choose to use cookies on our websites to track website visitorship and ex
 
 3.7 Under certain circumstances, telephone calls made to any of WePass companies to order and/or service hotlines and/or inquiry telephone numbers are recorded for the purposes of quality control, appraisal, and/or staff management and development. In such an event, by agreeing to this Policy, you hereby give your clear and unambiguous consent for the collection, use and disclosure of such Personal Data in accordance to this Policy.
 
+3.8 Some WePass apps (such as WePass AP Computer Science) contain advertisements. These apps may use data regarding your usage of the app to tailor advertisements to your interests. This may include information such as the types of content you interact with, your device's location (if permitted), and demographic information such as age and gender (if provided), your email address (if provided) or unique identifer, and quiz statistics and history. WePass apps may also use third-party advertising partners to display advertisements within our apps.
+
+By using WePass apps that contain advertisements, you consent to the collection and use of this data for advertising purposes. This data helps us and our advertising partners provide you with more relevant and personalized ads, improving your overall experience with the app.
+
 ## 4. Transfer of Personal Data Overseas
 
 Your Personal Data may be processed by WePass, its affiliates, agents and third parties providing services to WePass, in jurisdictions insire and/or outside of Singapore. In this event WePass will comply with the terms of the Act.
@@ -85,7 +91,7 @@ Where possible, WePass will validate data provided using generally accepted prac
 
 ## 6. Protection of Personal Data
 
-WePass uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Data and will not knowingly allow access to this data to anyone outside WePass, other than to you or as described in this Policy. However, WePass cannot ensure or warrant the security of any information you transmit to WePass and you do so entirely at your own risk. In particular, WePass does not warrant that such information may not be accessed, altered, collected, copied, destroyed, disposed of, disclosed or modified by breach of any of WePass physical, technical, or managerial safeguards.
+WePass uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Data and will not knowingly allow access to this data to anyone outside WePass or Geewax Technology Pte Ltd, other than to you or as described in this Policy. However, WePass cannot ensure or warrant the security of any information you transmit to WePass and you do so entirely at your own risk. In particular, WePass does not warrant that such information may not be accessed, altered, collected, copied, destroyed, disposed of, disclosed or modified by breach of any of WePass physical, technical, or managerial safeguards.
 
 ## 7. Access and Correction of Personal Data
 
@@ -102,7 +108,7 @@ WePass uses commercially reasonable physical, managerial, and technical safeguar
 
 8.1 WePass will delete, as reasonably possible, or otherwise anonymise any Personal Data in the event that the Personal Data is not required for any reasonable business or legal purposes of WePass and where the Personal Data is deleted from WePass electronic, manual, and other filing systems in accordance with WePass internal procedures and/or other agreements.
 
-8.2 To request an account be permanently deleted expresses your intention to fully remove both your user account and any existing information relevant to your user account via email at the following email address privacy -at- wepass.dev. Deletion of the personal data cannot be undone, and WePass won't be able to recover any of your data in the future should you make such a request.
+8.2 To request an account be permanently deleted expresses your intention to fully remove both your user account and any existing information relevant to your user account via email at the following email address: privacy -at- wepass.dev. Deletion of the personal data cannot be undone, and WePass won't be able to recover any of your data in the future should you make such a request.
 
 ## 9. Contacting you
 
